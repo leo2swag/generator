@@ -25,7 +25,7 @@ def main():
 			print 'Please type either y or n\n' 
 
 	print '\nGoodbye And Have A Nice Day !'
-	print '###########################\n'
+	print '#############################\n'
 
 if __name__ == '__main__':
 	main()
